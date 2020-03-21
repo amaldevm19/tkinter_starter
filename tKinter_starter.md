@@ -1,5 +1,6 @@
 <h3>tKinter_starter</h3>
 <p>Create A basic window using tkinter</p>
+<p>Create from below details or uncomment th tkinter_basics.py and run using Python 3</p>
 <pre>
     from tkinter import *
     window = Tk()
